@@ -1,8 +1,30 @@
-# React + Vite
+## Next.js with Vite and Framer Motion
+>> This repository contains a basic application built using Next.js, Vite, and Framer Motion. The application features draggable cards that have a cool animation effect while being dragged.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Technologies Used
 
-Currently, two official plugins are available:
+>    Next.js
+>    Vite
+>    Framer Motion
+>    Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Getting Started
+To get started with the project, follow these steps:
+
+    Clone the repository to your local machine.
+    Install the dependencies using npm install.
+    Run the development server using npm run dev.
+    Open your browser and navigate to http://localhost:3000 to see the application in action.
+
+Features
+
+    Drag and drop functionality for cards.
+    Cool animation effects using Framer Motion.
+
+Folder Structure
+The repository has the following folder structure:
+
+    pages: Contains the Next.js pages.
+    components: Contains the components used in the application.
+
+Feel free to explore the code and have fun experimenting with the draggable cards and animation effects!
